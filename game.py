@@ -1,5 +1,5 @@
-from tkinter import *
 import sys
+from tkinter import Toplevel, Tk, IntVar, Radiobutton, Button
 import pygame
 from random import shuffle
 
